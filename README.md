@@ -26,7 +26,7 @@ bash
 git clone 
 Перейдите в папку проекта:
 
-bash https://github.com/Andreu1705/test
+bash [https://github.com/Andreu1705/test](https://github.com/Andreu1705/test3)
 
 cd movie-library
 Запустите проект:
